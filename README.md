@@ -15,6 +15,6 @@ O objetivo é fornecer uma solução robusta e de fácil utilização para admin
 - `config_ssh.sh`: Este script automatiza a instalação e configuração do serviço SSH em um sistema CentOS.
 
 ## Como Usar
-Os Scripts estão ready-to-use, por isso basta fazer o download dos .sh e inserir dentro da Máquina Cliente. Juntamente com os Scripts, existem 2 manuais a seguir para realizar depois de correr os Scripts de SSH e FTP, pois os Clientes não conseguem aceder a este sem id_rsa.
+Os Scripts estão ready-to-use, por isso basta fazer o download dos .sh e inserir dentro da Máquina Cliente. Juntamente com os Scripts, existem 2 manuais a seguir para realizar depois de correr os Scripts de SSH e FTP ( Instruções para SSH.pdf e Instruções para FTP.pdf ), pois os Clientes não conseguem aceder a este sem id_rsa.
 
 1. Execute o script: `./nome_do_script.sh`
